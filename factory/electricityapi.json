@@ -1,0 +1,15 @@
+{
+	"name": "electricityapi",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da43aff8-305d-450e-a597-e3885f3dd9c0",
+		"tenantId": "deba6e7a-69d0-4d60-9e6a-cad4c8446de5"
+	}
+}
