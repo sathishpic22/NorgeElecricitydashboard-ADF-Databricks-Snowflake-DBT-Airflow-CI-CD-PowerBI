@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "https://www.hvakosterstrommen.no/api/v1/prices/2026.json",
+			"url": "https://www.hvakosterstrommen.no/api/v1/prices/2026/9.json",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
