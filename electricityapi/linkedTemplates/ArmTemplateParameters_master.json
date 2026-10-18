@@ -8,11 +8,11 @@
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
-		"RestService1_properties_typeProperties_url": {
-			"value": "https://www.hvakosterstrommen.no/api/v1/prices"
-		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://myetlpipeline.dfs.core.windows.net/"
+		},
+		"RestService1_properties_typeProperties_url": {
+			"value": "https://www.hvakosterstrommen.no/api/v1/prices/2026/10-18_NO5.json"
 		},
 		"containerUri": {
 			"value": ""
