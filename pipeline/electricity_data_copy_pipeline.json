@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "electricity_data_copy_pipeline",
 	"properties": {
 		"activities": [
 			{
