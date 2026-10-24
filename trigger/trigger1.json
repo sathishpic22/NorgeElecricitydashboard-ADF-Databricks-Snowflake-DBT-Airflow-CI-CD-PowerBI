@@ -3,18 +3,11 @@
 	"properties": {
 		"annotations": [],
 		"runtimeState": "Started",
-		"pipelines": [
-			{
-				"pipelineReference": {
-					"referenceName": "electricity_data_copy_pipeline",
-					"type": "PipelineReference"
-				}
-			}
-		],
+		"pipelines": [],
 		"type": "ScheduleTrigger",
 		"typeProperties": {
 			"recurrence": {
-				"frequency": "Week",
+				"frequency": "Month",
 				"interval": 1,
 				"startTime": "2026-10-08T21:07:00",
 				"timeZone": "W. Europe Standard Time",
