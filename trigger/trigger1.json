@@ -2,7 +2,7 @@
 	"name": "trigger1",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Started",
+		"runtimeState": "Stopped",
 		"pipelines": [],
 		"type": "ScheduleTrigger",
 		"typeProperties": {
@@ -10,12 +10,7 @@
 				"frequency": "Month",
 				"interval": 1,
 				"startTime": "2026-10-08T21:07:00",
-				"timeZone": "W. Europe Standard Time",
-				"schedule": {
-					"weekDays": [
-						"Sunday"
-					]
-				}
+				"timeZone": "W. Europe Standard Time"
 			}
 		}
 	}
