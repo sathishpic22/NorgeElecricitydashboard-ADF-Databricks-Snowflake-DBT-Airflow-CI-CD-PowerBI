@@ -14,10 +14,15 @@
 		"type": "ScheduleTrigger",
 		"typeProperties": {
 			"recurrence": {
-				"frequency": "Minute",
+				"frequency": "Week",
 				"interval": 1,
 				"startTime": "2026-10-08T21:07:00",
-				"timeZone": "W. Europe Standard Time"
+				"timeZone": "W. Europe Standard Time",
+				"schedule": {
+					"weekDays": [
+						"Sunday"
+					]
+				}
 			}
 		}
 	}
